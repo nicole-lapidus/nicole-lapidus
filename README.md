@@ -7,8 +7,8 @@ Hello! I'm a passionate Backend Developer with a keen focus on Java and Angular.
 As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
 
 ## Hobbies
+- Programming
 - Dancing
-- Dancing
-- Dancing
-- Dancing
+- Gym
+- Entrepeneur
 
