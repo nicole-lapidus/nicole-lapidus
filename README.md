@@ -11,6 +11,9 @@ Currently, I am dedicated to development and always seek out new technologies. I
 As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
 
 ## Skills
+- Leadership: Lead work teams maximizing their potentialities and promoting continuous learning.
+
+## Technologies
 - Programming Languages: JavaScript, Python, R, Solidity
 - Web Development: HTML, CSS, NodeJs, Express, Sequelize, React, React Native, Wordpress 
 - Databases: SQL, MongoDB, PostgreSQL, NoSQL
@@ -18,4 +21,3 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - Machine Learning, AI & Data Science: Machine Learning, Keras, Neural networks, TensorFlow 
 - Blockchain Development: Blockchain, EVM-based Blockchain development, Ethereum
 - Other Technologies: Retool, Auditar, Microsoft Office (advance use of Excel, Word and Power Point)
-- Leadership: Lead work teams maximizing their potentialities and promoting continuous learning.
