@@ -10,6 +10,10 @@ Currently, I am dedicated to development and always seek out new technologies. I
 ## Contact me
 As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
 
+## Languages
+- Spanish (Native): Fully proficient in speaking, reading, and writing. Able to communicate fluently and effortlessly in any context.
+- English (C1 Level): Highly proficient, with advanced skills in reading, writing, and speaking. Can engage in complex discussions, understand a wide range of topics, and produce clear, well-structured content.
+- Hebrew (Basic): Able to understand and use simple phrases and expressions. Can engage in basic conversations and handle everyday situations with limited vocabulary.
 ## Skills
 - Leadership: Lead work teams maximizing their potentialities and promoting continuous learning.
 
